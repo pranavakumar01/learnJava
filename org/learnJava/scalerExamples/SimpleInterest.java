@@ -1,7 +1,6 @@
+package org.learnJava.scalerExamples;
 
-import java.io.*;
-
-class main {
+public class SimpleInterest {
     public static void main(String args[])
     {
 

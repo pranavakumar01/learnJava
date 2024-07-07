@@ -1,4 +1,6 @@
-class main {
+package org.learnJava.scalerExamples;
+
+public class FloatingPointMultiplicatin {
     public static void main(String[] args)
     {
 

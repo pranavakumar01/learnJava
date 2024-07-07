@@ -1,5 +1,6 @@
+package org.learnJava.scalerExamples;
 
-class GFG {
+public class Transpose {
     static final int N = 4;
 
     static void transpose(int A[][], int B[][])

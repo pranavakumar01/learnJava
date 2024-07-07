@@ -1,6 +1,7 @@
+package org.learnJava.scalerExamples;
 
 import java.io.*;
-class main {
+public class MatrixPrint {
 
     public static void print2D(int mat[][])
     {

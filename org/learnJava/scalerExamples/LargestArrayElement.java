@@ -1,6 +1,7 @@
+package org.learnJava.scalerExamples;
 
-class Test {
-    static int arr[] = {10, 324, 45, 90, 9808};
+public class LargestArrayElement {
+    static int[] arr = {10, 324, 45, 90, 9808};
 
     static int largest()
     {

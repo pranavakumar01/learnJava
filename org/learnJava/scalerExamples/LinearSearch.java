@@ -1,5 +1,6 @@
+package org.learnJava.scalerExamples;
 
-class LinearSearch {
+public class LinearSearch {
     static int search(int arr[], int n, int x)
     {
         for (int i = 0; i < n; i++) {

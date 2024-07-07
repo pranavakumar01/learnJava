@@ -1,6 +1,6 @@
-import java.io.*;
+package org.learnJava.scalerExamples;
 
-class main {
+class Add2Matrices {
 
     static void printMatrix(int M[][],
                             int rowSize,

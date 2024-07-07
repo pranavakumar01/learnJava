@@ -1,5 +1,6 @@
+package org.learnJava.scalerExamples;
 
-class Test {
+public class Factorial {
     static int factorial(int n)
     {
         int res = 1, i;
